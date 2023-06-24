@@ -10,3 +10,5 @@ In Simon's Game, players must replicate a sequence of colors by clicking the cor
 6. If the player makes a mistake and fails to replicate the pattern correctly, the game ends.
 7. The player's goal is to reach the highest possible level and achieve a high score.
 
+hosted on:
+[https://shri142.github.io/simons-game/](https://shri142.github.io/simons-game/)
